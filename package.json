@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node index.js"
+    "start": "node index.jsx"
   },
   "dependencies": {
     "react": "^18.2.0",
