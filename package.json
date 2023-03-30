@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "node ./src/pages/index.jsx"
+    "start": "node /app/src/pages/index.jsx"
   },
   "dependencies": {
     "react": "^18.2.0",
